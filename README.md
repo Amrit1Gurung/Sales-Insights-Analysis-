@@ -18,7 +18,7 @@ The total profit made till now: **24657068.41** INR
 The total sales quantities till now:  **2429282** units
 
 #### 4. which markets have the highest Revenue contributions?
-<center><img src="plots/revenuebymarkets.png"></'center>
+<center><img src="plots/revenuebymarkets.png" height='400'></'center>
 
 
 
