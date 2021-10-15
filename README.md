@@ -30,7 +30,7 @@ Top 3 markets by E-Commerce are: Mumbai, Nagpur and Delhi NCR. Whereas Top 3 mar
 More than 2 quarter of the revenues(68.6%) and profit(61.4%) is contributed by Northern zone followed by Central zone(revenue:26.78% and profit:34.76%) and Southern zone(revenue:4.63% and profit:4.09%)
 
 #### 7. Which are the markets with highest and lowest profit contributions?  
-<img src="plots/proft%_by_markets.png">  
+<img src='plots/proft%_by_markets.png'>  
 Delhi NCR, Ahmedabad and Mumbai are 3 highest profit contributers. Similiarly, we can Kanpur and Bengaluru have negative profits which indicates loss. Note: numbers are in percent(%)  
 
 #### 8. Which are the top markets based on sale quantities?  
