@@ -98,6 +98,16 @@ we can see that since 2018 Jan sales/Revenue are decreasin
 2016 have the highest Revenue and since than Revenue have been decreasing.  
 
 
+## Repository Contents
+
+```bash
+.
+├── SQL_Analysis                    # contains SQL queries that perform exactly the same analysis
+├── data                            # contains raw datas                            
+├── plots                           # contains graphs and images
+├── README.md                       # public-facing preview
+├── Sales_Insights(EDA).ipynb       # Loading, preprocessing and analysis with python
+├── data_collection.ipynb           # used to collect data from MySQL database
 
 
 
