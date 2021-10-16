@@ -8,6 +8,8 @@ The data for this project was made available by <a link="https://github.com/code
 After collecting the data we used python packages like pandas, matplotlib, seaborn etc for comphrensive analysis.  
 
 ## Business Questions
+In this repo analysis is done using python. If you want i have also build dashboard using **Tableau** for more interactive and dynamic insights on sales and published in Tableau Public site. You can view dashboard <a href="https://public.tableau.com/app/profile/amrit.gurung4749/viz/SalesAnalysis_16343964521500/Dashboard1?publish=yes">here</a>.  
+
 #### 1. How much of Total Revenue generated?  
 The total revenue generated till now: **984869300.5** INR  
 
@@ -30,7 +32,7 @@ Top 3 markets by E-Commerce are: Mumbai, Nagpur and Delhi NCR. Whereas Top 3 mar
 More than 2 quarter of the revenues(68.6%) and profit(61.4%) is contributed by Northern zone followed by Central zone(revenue:26.78% and profit:34.76%) and Southern zone(revenue:4.63% and profit:4.09%)
 
 #### 7. Which are the markets with highest and lowest profit contributions?  
-<img src='plots/proft_pct_by_markets.png'>  
+ <img src="plots/proft_pct_by_markets.png">  
 Delhi NCR, Ahmedabad and Mumbai are 3 highest profit contributers. Similiarly, we can Kanpur and Bengaluru have negative profits which indicates loss. Note: numbers are in percent(%)  
 
 #### 8. Which are the top markets based on sale quantities?  
@@ -96,6 +98,12 @@ we can see that since 2018 Jan sales/Revenue are decreasin
 #### 13. Revenues by Year
 <img src="plots/revenue_by_year.png">  
 2016 have the highest Revenue and since than Revenue have been decreasing.  
+
+## Dashboard 
+In this repo analysis is done using python. If you want i have also build dashboard using **Tableau** for more interactive and dynamic insights on sales and published in Tableau Public site. You can view dashboard <a href="https://public.tableau.com/app/profile/amrit.gurung4749/viz/SalesAnalysis_16343964521500/Dashboard1?publish=yes">here</a>.  
+
+A screenshot of dashboard is show below:  
+<a href="https://public.tableau.com/app/profile/amrit.gurung4749/viz/SalesAnalysis_16343964521500/Dashboard1?publish=yes"><img src="plots/sales insight.png"></a>. 
 
 
 ## Repository Contents
