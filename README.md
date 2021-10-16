@@ -99,7 +99,7 @@ we can see that since 2018 Jan sales/Revenue are decreasin
 <img src="plots/revenue_by_year.png">  
 2016 have the highest Revenue and since than Revenue have been decreasing.  
 
-## Dashboard 
+## Dashboard (<h3><a href="https://public.tableau.com/app/profile/amrit.gurung4749/viz/SalesAnalysis_16343964521500/Dashboard1?publish=yes">Access Dashboard</a>.</h3> )  
 In this repo analysis is done using python. If you want i have also build dashboard using **Tableau** for more interactive and dynamic insights on sales and published in Tableau Public site. You can view dashboard <a href="https://public.tableau.com/app/profile/amrit.gurung4749/viz/SalesAnalysis_16343964521500/Dashboard1?publish=yes">here</a>.  
 
 A screenshot of dashboard is show below:  
